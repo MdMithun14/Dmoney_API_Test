@@ -5,11 +5,14 @@
 
 ## How to run
  1.Clone this project
- 2. Give following commands
- ```npm i ```
- ```npm start ```
+ 
+ 2.Give following commands
+ 
+   ```npm i ```
+  ```npm start ```
 
- Output:
+## Output:
+ 
  ![newmanreport](https://github.com/MdMithun14/Dmoney_API_Test/assets/159123567/449b4e5d-e798-4cef-ab22-02b62d13246f)
 
 
